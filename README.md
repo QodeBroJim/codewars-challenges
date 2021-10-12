@@ -41,16 +41,6 @@ This repo is a compilation of various challenges I have solved on the CodeWars p
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -116,7 +106,7 @@ Project Link: [https://github.com/QodeBroJim/codewars-challenges](https://github
 [github-downloads]: https://img.shields.io/github/downloads/QodeBroJim/codewars-challenges/total?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/QodeBroJim/codewars-challenges?color=bright%20green&style=for-the-badge
 [contributors-url]: https://github.com/QodeBroJim/codewars-challenges/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/QodeBroJim/codewars-challenges?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/QodeBroJim/codewars-challenges?color=bright%20green&style=for-the-badge
 [license-url]: https://github.com/QodeBroJim/codewars-challenges/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/james-reeves-a24514b6/
