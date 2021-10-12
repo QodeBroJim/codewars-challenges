@@ -63,8 +63,6 @@ This repo is a compilation of various challenges I have solved on the CodeWars p
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 There are a multitude of repos on Github containing solved challenges from various online platforms. I decided I would curate my own starting with CodeWars. 
 
 You are free to use any of these solutions and are encouraged to share your own solutions as well!
@@ -117,10 +115,8 @@ Project Link: [https://github.com/QodeBroJim/codewars-challenges](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [github-downloads]: https://img.shields.io/github/downloads/QodeBroJim/codewars-challenges/total?style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[contributors-shield]: https://img.shields.io/github/contributors/QodeBroJim/codewars-challenges?color=bright%20green&style=for-the-badge
+[contributors-url]: https://github.com/QodeBroJim/codewars-challenges/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/QodeBroJim/codewars-challenges?style=for-the-badge
 [license-url]: https://github.com/QodeBroJim/codewars-challenges/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
