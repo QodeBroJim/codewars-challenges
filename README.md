@@ -10,7 +10,6 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 ![Downloads][github-downloads]
-[![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
